@@ -58,6 +58,7 @@
       height: 8rem;
       border-radius: 50%;
       transition: transform 0.3s;
+      object-fit: cover;
   }
 
   #header img:hover {
